@@ -1,3 +1,9 @@
+"""
+Module: tip_calculator
+
+A Tkinter application to calculate tips.
+"""
+
 import tkinter as tk
 from tkinter import ttk
 from typing import Callable, Optional
